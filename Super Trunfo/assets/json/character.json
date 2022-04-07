@@ -1,0 +1,12 @@
+{
+  "img": "https://static.wikia.nocookie.net/genshin-impact/images/9/96/Personagem_Ganyu_Cart%C3%A3o.png/revision/latest?cb=20210323144303&path-prefix=pt-br",
+  "nome": "Ganyu",
+  "critdmg":80,
+  "critrate": 20,
+  "atributos": {
+    "vida": 500,
+    "ataque": 9,
+    "defesa": 4,
+    "elemento": "cryo"
+  }
+}
